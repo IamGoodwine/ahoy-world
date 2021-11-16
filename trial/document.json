@@ -23,7 +23,24 @@
   },
   "colorSpace": 0,
   "do_objectID": "4F4FE658-570E-4B5E-94B2-BFBDC662FF1B",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "615A28B0-4732-4D72-AE1B-9E2E55046A11",
+      "fontFamilyName": "Bradley Hand",
+      "fontFileName": "Bradley Hand Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "BradleyHandITCTT-Bold"
+      ]
+    }
+  ],
   "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
   ],
   "foreignSymbols": [
   ],
@@ -31,17 +48,24 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "6073C376-5515-4B5E-94B2-B4BFC6438676",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "63.1",
-    "build": 92452,
-    "version": 123
+    "appVersion": "79.1",
+    "build": 133344,
+    "version": 136
   },
   "pages": [
     "Page 1"
   ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "767FC776-5515-4B5E-94B2-B4BFC643887A",
+    "objects": [
+    ]
+  },
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
